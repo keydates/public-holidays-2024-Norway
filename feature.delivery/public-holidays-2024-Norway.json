@@ -1,0 +1,82 @@
+{
+  "product": "Norway Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-05T12:00:00",
+      "endDate": "2024-04-05T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-08T12:00:00",
+      "endDate": "2024-04-08T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "light",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "green",
+      "description": "International workers' day"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-17T12:00:00",
+      "endDate": "2024-05-17T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the Norwegian Constitution"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government of Norway",
+      "product": "Norway Public Holidays 2024",
+      "style": "indigo",
+      "description": "Traditional post-Christmas celebration"
+    }
+  ]
+}
